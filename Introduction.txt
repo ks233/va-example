@@ -22,7 +22,7 @@
     },
     {
       "id": "a7MI9Pi_Zq_gjIRTv874r",
-      "time": 14.828056333333333,
+      "time": 15.328056333333333,
       "text": "# ⏳️ 时间轴\n\n时间轴中间的红色竖线代表当前时间。\n\n## ⌨️ 主要操作\n\n1. 滚轮缩放\n2. 左键拖拽调整视频时间",
       "polylines": []
     },
@@ -34,7 +34,7 @@
     },
     {
       "id": "74avzA5yCLDQ9AcerieAL",
-      "time": 29.266616000000006,
+      "time": 32.68831599999999,
       "text": "# ✍️ 编辑笔记\n\n## ⌨️ 主要操作\n\n1. **Ctrl-E** 切换编辑模式和预览模式。\n2. 笔记的第一行会成为该笔记的标题。\n3. 编辑器右上角快速输入 Emoji。\n\n## 🌟 笔记中插入图片\n\n使用![](__8lZjAbrBAXO6UHHmvSkH7)插入图片，图片会被赋予别名，保存时以 base64 的形式内嵌在 JSON 文件中。",
       "polylines": []
     },
@@ -58,7 +58,7 @@
     {
       "id": "YVAJKOqZ5S11n_66wNhWt",
       "time": 46.61333299999999,
-      "text": "# 💬 了解更多\n\n以上就是该工具的基本操作，更多信息参见GitHub 仓库 [ks233/video-annotator](https://github.com/ks233/video-annotator)。\n\n---\n\n试试在自己的视频上做笔记吧！",
+      "text": "# 💬 了解更多\n\n以上就是该工具的基本操作，快捷键、文件载入、节拍器等功能说明参见 GitHub 仓库 [ks233/video-annotator](https://github.com/ks233/video-annotator)。\n\n---\n\n试试在自己的视频上做笔记吧！",
       "polylines": []
     }
   ],
