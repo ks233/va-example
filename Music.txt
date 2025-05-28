@@ -2,8 +2,8 @@
   "showVideo": true,
   "editMode": true,
   "videoInfo": {
-    "isLocal": true,
-    "src": "ClariS - コネクト.mp3",
+    "isLocal": false,
+    "src": "https://raw.githubusercontent.com/ks233/va-example/refs/heads/main/Music.mp3",
     "duration": 270.471837,
     "height": 0,
     "width": 0
