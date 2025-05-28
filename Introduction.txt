@@ -17,7 +17,7 @@
     {
       "id": "jpmR_-y8Xn7ZqLzT17vXY",
       "time": 0.8118479999999977,
-      "text": "# ℹ️ 这是一个示例笔记\n\n💬 欢迎使用 Video-Annotator，这是一个轻便实用的**本地视频批注工具**。\n\n---\n\n✔️ 你可以用它来做课程笔记、游戏录像复盘、影视拉片、音乐分析等。\n\n---\n\n✨ 代码[开源](https://github.com/ks233/video-annotator)，纯前端静态页面，一切都发生在本地，没有任何隐私顾虑。\n\n---\n\n💾 笔记为纯文本的 JSON 格式，非常易于传输和迁移。\n\n",
+      "text": "# ℹ️ 这是一个示例笔记\n\n💬 欢迎使用 Video Annotator，这是一个轻便实用的**本地视频批注工具**。\n\n---\n\n✔️ 你可以用它来做课程笔记、游戏录像复盘、影视拉片、音乐分析等。\n\n---\n\n✨ 代码[开源](https://github.com/ks233/video-annotator)，纯前端静态页面，一切都发生在本地，没有任何隐私顾虑。\n\n---\n\n💾 笔记为纯文本的 JSON 格式，非常易于传输和迁移。\n\n",
       "polylines": []
     },
     {
@@ -29,7 +29,7 @@
     {
       "id": "WW0Txpnut_ccrt2J4sGI7",
       "time": 23.044339,
-      "text": ".# 💬 次级笔记\n\n如果笔记以英文句号 . 开头，就会显示为次级笔记。\n\n次级笔记在播放时不会被自动选中，只有主动点击时才会显示内容。",
+      "text": ".# 💬 次级笔记\n\n如果笔记以英文句号 . 开头，就会显示为次级笔记。\n\n次级笔记在播放时不会被自动选中，只有在视频暂停时主动点击才会显示内容。 ",
       "polylines": []
     },
     {
@@ -47,7 +47,7 @@
     {
       "id": "CfqrZQ9LEpYToB2L9EHGs",
       "time": 42.368373666666656,
-      "text": "# ✏️ 绘制线条\n\n绘图功能的目的是在笔记所在的帧上标注，播放时只会短暂地显示一秒。\n\n## ⌨️ 主要操作\n\n因为绘图依附于笔记，所以只有**当前时间点有笔记时**才能使用绘图功能。\n\n按住 **Ctrl**，视频画面略微变蓝后，**左键绘制，右键擦除**。",
+      "text": "# ✏️ 绘制线条\n\n**在这停顿！** 请暂停并跳转到这条笔记开头的位置。\n\n绘图功能的目的是在笔记所在的帧上标注，播放时只会短暂地显示一秒。\n\n## ⌨️ 主要操作\n\n因为绘图依附于笔记，所以只有**当前时间点有笔记时**才能使用绘图功能。\n\n按住 **Ctrl**，视频画面略微变蓝后，**左键绘制，右键擦除**。",
       "polylines": [
         {
           "w": 1068.671875,
@@ -64,7 +64,7 @@
     {
       "id": "YVAJKOqZ5S11n_66wNhWt",
       "time": 46.61333299999999,
-      "text": "# 💬 了解更多\n\n快捷键、文件载入、节拍器等功能说明参见 [GitHub 仓库](https://github.com/ks233/video-annotator)，试试在自己的视频上做笔记吧！\n\n---\n🎼 音乐分析演示参见[此链接](http://ks233.github.io/video-annotator/?n=https://raw.githubusercontent.com/ks233/va-example/refs/heads/main/Music.txt)。\n\n---\n",
+      "text": "# 💬 了解更多\n\n快捷键、文件载入、节拍器等更多功能说明参见 [GitHub 仓库](https://github.com/ks233/video-annotator)，音乐分析演示参见[这个示例](http://ks233.github.io/video-annotator/?n=https://raw.githubusercontent.com/ks233/va-example/refs/heads/main/Music.txt)。\n\n---\n试试在自己的视频上做笔记吧！",
       "polylines": []
     }
   ],
