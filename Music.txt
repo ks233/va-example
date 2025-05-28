@@ -1,0 +1,433 @@
+{
+  "showVideo": true,
+  "editMode": true,
+  "videoInfo": {
+    "isLocal": true,
+    "src": "ClariS - コネクト.mp3",
+    "duration": 270.471837,
+    "height": 0,
+    "width": 0
+  },
+  "markers": {
+    "bpm": 175,
+    "beat": 4,
+    "offset": 0
+  },
+  "notes": [
+    {
+      "id": "NAkIF0o6wc3ljQ1yksDvu",
+      "time": 0,
+      "text": "# ℹ️ 这是一个示例笔记\n\n和弦进行摘自 [ChordWiki](https://ja.chordwiki.org/wiki/%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88)",
+      "polylines": []
+    },
+    {
+      "id": "HXKF9Z4lKC8S9peA9Frnm",
+      "time": 1.3714285714285714,
+      "text": ".# 🎼 副歌旋律，Key: F\n这是一个示例笔记，试试打开右下角的节拍器，播放音频吧！",
+      "polylines": []
+    },
+    {
+      "id": "wsbzQk1Ond8eEmLZN4kqN",
+      "time": 1.3714285714285714,
+      "text": "# 🎹 BbM7\n四级，加了一些延伸音的 4536",
+      "polylines": []
+    },
+    {
+      "id": "YYxyuni0oCMc8awbPMPll",
+      "time": 2.742857142857143,
+      "text": "# 🎹 C6\n五级",
+      "polylines": []
+    },
+    {
+      "id": "mjfH_NwNthOt8c2ajKo1l",
+      "time": 4.114285714285714,
+      "text": "# 🎹 Am7\n三级 ",
+      "polylines": []
+    },
+    {
+      "id": "QAfg_h5vtsgQy6YPzORSx",
+      "time": 5.485714285714286,
+      "text": "# 🎹 Dm7\n六级",
+      "polylines": []
+    },
+    {
+      "id": "CRkpSor1uUQTZU_jk2pvQ",
+      "time": 6.857142857142858,
+      "text": "# 🎹 Bbm7\n四级",
+      "polylines": []
+    },
+    {
+      "id": "bd67fIRs4RLdx8mAzP2If",
+      "time": 8.228571428571428,
+      "text": "# 🎹 C6\n五级",
+      "polylines": []
+    },
+    {
+      "id": "Y8wL5pe6exrYc92HKIyL9",
+      "time": 9.6,
+      "text": "# 🎹 Dsus4 -> D\n六级大和弦，**离调**",
+      "polylines": []
+    },
+    {
+      "id": "BsO-U3qC6X2hKgw4E2RYO",
+      "time": 12.342857142857143,
+      "text": ".# 🎼 前奏，Key: Gb",
+      "polylines": []
+    },
+    {
+      "id": "i0gXfxfpqs_9w1iKN_wcQ",
+      "time": 12.342857142857143,
+      "text": "# 🎹 CbM7\n\n仍然是 4536，注意这里换和弦的节奏是 3 3 2",
+      "polylines": []
+    },
+    {
+      "id": "LezhTqreKpJx_-1TWes8-",
+      "time": 13.371428571428572,
+      "text": "# 🎹 Db",
+      "polylines": []
+    },
+    {
+      "id": "vxb9KIqMqIAeRxNoLBfbS",
+      "time": 14.4,
+      "text": "# 🎹 Cb",
+      "polylines": []
+    },
+    {
+      "id": "6o-l25Wxhez2KvmjKmzJM",
+      "time": 15.085714285714285,
+      "text": "# 🎹 Bbm7",
+      "polylines": []
+    },
+    {
+      "id": "NDXEmINW06dtIoCb-zAhS",
+      "time": 16.114285714285714,
+      "text": "# 🎹 Ebm7",
+      "polylines": []
+    },
+    {
+      "id": "8EQeQ6tQs-8Ln23DlqEy8",
+      "time": 17.82857142857143,
+      "text": "# 🎹 Cm7-5",
+      "polylines": []
+    },
+    {
+      "id": "igtaGBa6Qy7jISeJPxl3_",
+      "time": 18.857142857142858,
+      "text": "# 🎹 Cb",
+      "polylines": []
+    },
+    {
+      "id": "cPLmiEcN4STbBUJoOzLd0",
+      "time": 20.571428571428573,
+      "text": "# 🎹 Dbsus4",
+      "polylines": []
+    },
+    {
+      "id": "tDrE8rTYmZg03nNN8tkHt",
+      "time": 21.942857142857143,
+      "text": "# 🎹 Ebsus4",
+      "polylines": []
+    },
+    {
+      "id": "2SojTOzIsKdpQSBbGa1iS",
+      "time": 22.62857142857143,
+      "text": "# 🎹 Eb",
+      "polylines": []
+    },
+    {
+      "id": "pViYC5Gah014sa5yPW_bk",
+      "time": 23.314285714285713,
+      "text": ".# 🎼 主歌，Key: Eb",
+      "polylines": []
+    },
+    {
+      "id": "1mjf7nySiYOxod2mxuIk5",
+      "time": 23.314285714285713,
+      "text": "# 🎹 AbM7",
+      "polylines": []
+    },
+    {
+      "id": "X57JqEV-wnpDktpAuWS8Q",
+      "time": 26.057142857142857,
+      "text": "# 🎹 Bb",
+      "polylines": []
+    },
+    {
+      "id": "cID5Bn38RLbYxO76o1jOS",
+      "time": 27.42857142857143,
+      "text": "# 🎹 Bbsus4",
+      "polylines": []
+    },
+    {
+      "id": "etJMfaqet4mAVwNDChmdI",
+      "time": 28.114285714285714,
+      "text": "# 🎹 Bb",
+      "polylines": []
+    },
+    {
+      "id": "i2EOvbT30lY-4lMzX7hRv",
+      "time": 28.8,
+      "text": "# 🎹 Gm7",
+      "polylines": []
+    },
+    {
+      "id": "w6rTdv0zg6QButGWaCDmB",
+      "time": 31.542857142857144,
+      "text": "# 🎹 Cm7",
+      "polylines": []
+    },
+    {
+      "id": "MPo6mXQNpCGv5GgWV5-bo",
+      "time": 32.91428571428571,
+      "text": "# 🎹 Cm7",
+      "polylines": []
+    },
+    {
+      "id": "pU3yoMSsSvvPLt3ymU9P6",
+      "time": 33.6,
+      "text": "# 🎹 Bb",
+      "polylines": []
+    },
+    {
+      "id": "aq8UvfgFQeoKujwF9IJg6",
+      "time": 34.285714285714285,
+      "text": "# 🎹 AbM7",
+      "polylines": []
+    },
+    {
+      "id": "2wwArtHcoARNh7eh-lwxt",
+      "time": 37.02857142857143,
+      "text": "# 🎹 Bb",
+      "polylines": []
+    },
+    {
+      "id": "UxXlQwP9Pl9oCCmRJH6mK",
+      "time": 38.4,
+      "text": "# 🎹 Bbsus4",
+      "polylines": []
+    },
+    {
+      "id": "kzjlm7TwgZOhZFMnZ2No8",
+      "time": 39.08571428571429,
+      "text": "# 🎹 Bb",
+      "polylines": []
+    },
+    {
+      "id": "sRUlbCPgwHCtUJyY9b8GS",
+      "time": 39.77142857142857,
+      "text": "# 🎹 Gm7",
+      "polylines": []
+    },
+    {
+      "id": "zFvnyq40UkFzHoWk4RWWp",
+      "time": 41.142857142857146,
+      "text": "# 🎹 G7/Cb",
+      "polylines": []
+    },
+    {
+      "id": "JjLcLyrGoTf4RbbmUakAb",
+      "time": 41.82857142857143,
+      "text": "# 🎹 G7",
+      "polylines": []
+    },
+    {
+      "id": "HyyGhLquWsbeEIE0Gj9NS",
+      "time": 42.51428571428571,
+      "text": "# 🎹 Cm7",
+      "polylines": []
+    },
+    {
+      "id": "eX19L2oD3_O3hwzoOkidp",
+      "time": 43.885714285714286,
+      "text": "# 🎹 Cm7",
+      "polylines": []
+    },
+    {
+      "id": "3CEx4KN3faQs8BGAGMUAI",
+      "time": 44.57142857142857,
+      "text": "# 🎹 Bb",
+      "polylines": []
+    },
+    {
+      "id": "T8uwbmitBXnvi5uZwRe1Z",
+      "time": 45.25714285714286,
+      "text": ".# ℹ️ 副歌前降低换和弦频率",
+      "polylines": []
+    },
+    {
+      "id": "IMh6ggm2djF6iGJAGu1A_",
+      "time": 45.25714285714286,
+      "text": "# 🎹 AbM7",
+      "polylines": []
+    },
+    {
+      "id": "A09dZ0uzPIXaGTdVXlBy1",
+      "time": 48,
+      "text": "# 🎹 AbM7",
+      "polylines": []
+    },
+    {
+      "id": "Hws_dpXjVHAPu6fqCAqUF",
+      "time": 50.74285714285714,
+      "text": "# 🎹 Gm7",
+      "polylines": []
+    },
+    {
+      "id": "znThZW1JQBGCVYDHtqH2q",
+      "time": 53.48571428571429,
+      "text": "# 🎹 Cm7",
+      "polylines": []
+    },
+    {
+      "id": "Z4UshgxSJ7emUM_mdRwTW",
+      "time": 56.22857142857143,
+      "text": "# 🎹 Am7-5",
+      "polylines": []
+    },
+    {
+      "id": "lpPU3waPLilCnioUdJgr5",
+      "time": 58.971428571428575,
+      "text": "# 🎹 AbM7",
+      "polylines": []
+    },
+    {
+      "id": "f1V1JVMC5Du487s7MEgP8",
+      "time": 61.714285714285715,
+      "text": "# 🎹 Fm7",
+      "polylines": []
+    },
+    {
+      "id": "YKJMA4lWktoqADk5Lvyc2",
+      "time": 63.08571428571429,
+      "text": "# 🎹 Gm7",
+      "polylines": []
+    },
+    {
+      "id": "GyHImhpuOUWej4HpOGWlU",
+      "time": 64.45714285714286,
+      "text": "# 🎹 Ab",
+      "polylines": []
+    },
+    {
+      "id": "hO87L9gvuLpm2BjrcrGDw",
+      "time": 65.82857142857142,
+      "text": "# 🎹 Gsus4",
+      "polylines": []
+    },
+    {
+      "id": "7W6mtZgOR34FKq-w1DcsW",
+      "time": 67.2,
+      "text": ".# 🎼 副歌，Key: Gb",
+      "polylines": []
+    },
+    {
+      "id": "BF6lCOAqmPn0H32tPS9OF",
+      "time": 67.2,
+      "text": "# 🎹 CbM7",
+      "polylines": []
+    },
+    {
+      "id": "SKM2roo2COSMLCm_hgoPu",
+      "time": 68.57142857142857,
+      "text": "# 🎹 Db",
+      "polylines": []
+    },
+    {
+      "id": "THHkaJsfTCofT3WDMH142",
+      "time": 69.94285714285715,
+      "text": "# 🎹 Bbm7",
+      "polylines": []
+    },
+    {
+      "id": "zWcoJM08CALejstOPCzw0",
+      "time": 71.31428571428572,
+      "text": "# 🎹 Ebm7 ",
+      "polylines": []
+    },
+    {
+      "id": "PFET2t4NVj1XKeM35Dq5x",
+      "time": 72.68571428571428,
+      "text": "# 🎹 CbM7",
+      "polylines": []
+    },
+    {
+      "id": "bHbadkeQ_lBV2a7WHCIs6",
+      "time": 74.05714285714286,
+      "text": "# 🎹 Db",
+      "polylines": []
+    },
+    {
+      "id": "oaDeBfGfqZ6YD1GK99iI6",
+      "time": 75.42857142857143,
+      "text": "# 🎹 Ebsus4",
+      "polylines": []
+    },
+    {
+      "id": "dzyPLcKzNvVeSwqM0IRnU",
+      "time": 76.8,
+      "text": "# 🎹 Eb",
+      "polylines": []
+    },
+    {
+      "id": "U6MlDPzVubbXbRAlK_sU5",
+      "time": 78.17142857142858,
+      "text": "# 🎹 CbM7",
+      "polylines": []
+    },
+    {
+      "id": "NVEA5sspZse0-xkuIkh5b",
+      "time": 79.54285714285714,
+      "text": ".# 🥁 反拍鼓节奏\n\n第一遍是正常的动次打次，第二遍和旋律同步反拍。",
+      "polylines": []
+    },
+    {
+      "id": "DX9ZIiaAp7YxJmEKR1C2P",
+      "time": 79.54285714285714,
+      "text": "# 🎹 Db",
+      "polylines": []
+    },
+    {
+      "id": "B8DI0tvp9bd1x6to8PhYJ",
+      "time": 80.91428571428571,
+      "text": "# 🎹 Bbm7",
+      "polylines": []
+    },
+    {
+      "id": "-BRrHjZJ8T_lM-SNeAtU7",
+      "time": 82.28571428571429,
+      "text": "# 🎹 Ebm7",
+      "polylines": []
+    },
+    {
+      "id": "1v0DvmJbTyBzTHxK8QfUv",
+      "time": 83.65714285714286,
+      "text": "# 🎹 Abm7",
+      "polylines": []
+    },
+    {
+      "id": "9eiarq33rvYGSNGByFMi-",
+      "time": 85.02857142857142,
+      "text": "# 🎹 Bbm7",
+      "polylines": []
+    },
+    {
+      "id": "6i7gc_UXC707FtdWKth2h",
+      "time": 86.4,
+      "text": "# 🎹 CbM7",
+      "polylines": []
+    },
+    {
+      "id": "p4TUdbK9QfdfNzm5p7BVa",
+      "time": 87.77142857142857,
+      "text": "# 🎹 Db",
+      "polylines": []
+    },
+    {
+      "id": "J7g_Uxot62-cYpGDwPRrL",
+      "time": 89.14285714285714,
+      "text": "# 🎹 CbM7\n\n以下略",
+      "polylines": []
+    }
+  ],
+  "imageDatabase": {}
+}
