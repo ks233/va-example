@@ -1,6 +1,6 @@
 {
   "showVideo": true,
-  "editMode": true,
+  "editMode": false,
   "videoInfo": {
     "isLocal": false,
     "src": "https://raw.githubusercontent.com/ks233/va-example/refs/heads/main/Music.mp3",
@@ -11,423 +11,427 @@
   "markers": {
     "bpm": 175,
     "beat": 4,
-    "offset": 0
+    "offset": 0.06
   },
   "notes": [
     {
       "id": "NAkIF0o6wc3ljQ1yksDvu",
-      "time": 0,
-      "text": "# ℹ️ 这是一个示例笔记\n\n和弦进行摘自 [ChordWiki](https://ja.chordwiki.org/wiki/%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88)",
+      "time": 0.02057142857142857,
+      "text": "# ℹ️ 这是一个示例笔记\n\n这个笔记大致演示了如何用本工具分析音乐。\n\n可以关闭视频播放器的显示，使笔记有更多显示空间。\n\n![](__RWJXlgfHn3yzquDXFYBmE)\n\n播放时试试打开节拍器、用快捷键 X/C 调整播放速度。\n\n（コネクト和弦进行摘自 [ChordWiki](https://ja.chordwiki.org/wiki/%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88)）",
       "polylines": []
     },
     {
       "id": "HXKF9Z4lKC8S9peA9Frnm",
-      "time": 1.3714285714285714,
+      "time": 1.392,
       "text": ".# 🎼 副歌旋律，Key: F\n这是一个示例笔记，试试打开右下角的节拍器，播放音频吧！",
       "polylines": []
     },
     {
       "id": "wsbzQk1Ond8eEmLZN4kqN",
-      "time": 1.3714285714285714,
-      "text": "# 🎹 BbM7\n四级，加了一些延伸音的 4536",
+      "time": 1.392,
+      "text": "# 🎹 BbM7\n\n可以像这样在笔记里添加补充说明。",
       "polylines": []
     },
     {
       "id": "YYxyuni0oCMc8awbPMPll",
-      "time": 2.742857142857143,
+      "time": 2.763428571428572,
       "text": "# 🎹 C6\n五级",
       "polylines": []
     },
     {
       "id": "mjfH_NwNthOt8c2ajKo1l",
-      "time": 4.114285714285714,
+      "time": 4.134857142857143,
       "text": "# 🎹 Am7\n三级 ",
       "polylines": []
     },
     {
       "id": "QAfg_h5vtsgQy6YPzORSx",
-      "time": 5.485714285714286,
+      "time": 5.506285714285714,
       "text": "# 🎹 Dm7\n六级",
       "polylines": []
     },
     {
       "id": "CRkpSor1uUQTZU_jk2pvQ",
-      "time": 6.857142857142858,
+      "time": 6.877714285714285,
       "text": "# 🎹 Bbm7\n四级",
       "polylines": []
     },
     {
       "id": "bd67fIRs4RLdx8mAzP2If",
-      "time": 8.228571428571428,
+      "time": 8.249142857142857,
       "text": "# 🎹 C6\n五级",
       "polylines": []
     },
     {
       "id": "Y8wL5pe6exrYc92HKIyL9",
-      "time": 9.6,
-      "text": "# 🎹 Dsus4 -> D\n六级大和弦，**离调**",
+      "time": 9.620571428571429,
+      "text": "# 🎹 Dsus4 -> D\n\n六级大和弦，**离调**",
       "polylines": []
     },
     {
       "id": "BsO-U3qC6X2hKgw4E2RYO",
-      "time": 12.342857142857143,
+      "time": 12.363428571428573,
       "text": ".# 🎼 前奏，Key: Gb",
       "polylines": []
     },
     {
       "id": "i0gXfxfpqs_9w1iKN_wcQ",
-      "time": 12.342857142857143,
-      "text": "# 🎹 CbM7\n\n仍然是 4536，注意这里换和弦的节奏是 3 3 2",
+      "time": 12.363428571428573,
+      "text": "# 🎹 CbM7",
       "polylines": []
     },
     {
       "id": "LezhTqreKpJx_-1TWes8-",
-      "time": 13.371428571428572,
+      "time": 13.392000000000001,
       "text": "# 🎹 Db",
       "polylines": []
     },
     {
       "id": "vxb9KIqMqIAeRxNoLBfbS",
-      "time": 14.4,
+      "time": 14.42057142857143,
       "text": "# 🎹 Cb",
       "polylines": []
     },
     {
       "id": "6o-l25Wxhez2KvmjKmzJM",
-      "time": 15.085714285714285,
+      "time": 15.106285714285715,
       "text": "# 🎹 Bbm7",
       "polylines": []
     },
     {
       "id": "NDXEmINW06dtIoCb-zAhS",
-      "time": 16.114285714285714,
+      "time": 16.47771428571429,
       "text": "# 🎹 Ebm7",
       "polylines": []
     },
     {
       "id": "8EQeQ6tQs-8Ln23DlqEy8",
-      "time": 17.82857142857143,
+      "time": 17.84914285714286,
       "text": "# 🎹 Cm7-5",
       "polylines": []
     },
     {
       "id": "igtaGBa6Qy7jISeJPxl3_",
-      "time": 18.857142857142858,
+      "time": 18.877714285714287,
       "text": "# 🎹 Cb",
       "polylines": []
     },
     {
       "id": "cPLmiEcN4STbBUJoOzLd0",
-      "time": 20.571428571428573,
+      "time": 20.592000000000002,
       "text": "# 🎹 Dbsus4",
       "polylines": []
     },
     {
       "id": "tDrE8rTYmZg03nNN8tkHt",
-      "time": 21.942857142857143,
+      "time": 21.963428571428572,
       "text": "# 🎹 Ebsus4",
       "polylines": []
     },
     {
       "id": "2SojTOzIsKdpQSBbGa1iS",
-      "time": 22.62857142857143,
+      "time": 22.64914285714286,
       "text": "# 🎹 Eb",
       "polylines": []
     },
     {
       "id": "pViYC5Gah014sa5yPW_bk",
-      "time": 23.314285714285713,
+      "time": 23.334857142857143,
       "text": ".# 🎼 主歌，Key: Eb",
       "polylines": []
     },
     {
       "id": "1mjf7nySiYOxod2mxuIk5",
-      "time": 23.314285714285713,
-      "text": "# 🎹 AbM7",
+      "time": 23.334857142857143,
+      "text": "# 🎹 AbM7 💬\n\nℹ️ 挨个创建和弦很麻烦？中键点击“创建笔记”按钮可以快速批量创建和弦。\n\n![](__Jh4KUN_QO8414S-SQ0_1a)\n\n和弦之间用英文逗号隔开，每个和弦间隔半小节，逗号之间没有内容则视为跳过半小节。",
       "polylines": []
     },
     {
       "id": "X57JqEV-wnpDktpAuWS8Q",
-      "time": 26.057142857142857,
+      "time": 26.077714285714286,
       "text": "# 🎹 Bb",
       "polylines": []
     },
     {
       "id": "cID5Bn38RLbYxO76o1jOS",
-      "time": 27.42857142857143,
+      "time": 27.44914285714286,
       "text": "# 🎹 Bbsus4",
       "polylines": []
     },
     {
       "id": "etJMfaqet4mAVwNDChmdI",
-      "time": 28.114285714285714,
+      "time": 28.134857142857143,
       "text": "# 🎹 Bb",
       "polylines": []
     },
     {
       "id": "i2EOvbT30lY-4lMzX7hRv",
-      "time": 28.8,
+      "time": 28.82057142857143,
       "text": "# 🎹 Gm7",
       "polylines": []
     },
     {
       "id": "w6rTdv0zg6QButGWaCDmB",
-      "time": 31.542857142857144,
+      "time": 31.563428571428574,
       "text": "# 🎹 Cm7",
       "polylines": []
     },
     {
       "id": "MPo6mXQNpCGv5GgWV5-bo",
-      "time": 32.91428571428571,
+      "time": 32.93485714285715,
       "text": "# 🎹 Cm7",
       "polylines": []
     },
     {
       "id": "pU3yoMSsSvvPLt3ymU9P6",
-      "time": 33.6,
+      "time": 33.62057142857143,
       "text": "# 🎹 Bb",
       "polylines": []
     },
     {
       "id": "aq8UvfgFQeoKujwF9IJg6",
-      "time": 34.285714285714285,
+      "time": 34.306285714285714,
       "text": "# 🎹 AbM7",
       "polylines": []
     },
     {
       "id": "2wwArtHcoARNh7eh-lwxt",
-      "time": 37.02857142857143,
+      "time": 37.04914285714286,
       "text": "# 🎹 Bb",
       "polylines": []
     },
     {
       "id": "UxXlQwP9Pl9oCCmRJH6mK",
-      "time": 38.4,
+      "time": 38.42057142857143,
       "text": "# 🎹 Bbsus4",
       "polylines": []
     },
     {
       "id": "kzjlm7TwgZOhZFMnZ2No8",
-      "time": 39.08571428571429,
+      "time": 39.10628571428572,
       "text": "# 🎹 Bb",
       "polylines": []
     },
     {
       "id": "sRUlbCPgwHCtUJyY9b8GS",
-      "time": 39.77142857142857,
+      "time": 39.792,
       "text": "# 🎹 Gm7",
       "polylines": []
     },
     {
       "id": "zFvnyq40UkFzHoWk4RWWp",
-      "time": 41.142857142857146,
+      "time": 41.163428571428575,
       "text": "# 🎹 G7/Cb",
       "polylines": []
     },
     {
       "id": "JjLcLyrGoTf4RbbmUakAb",
-      "time": 41.82857142857143,
+      "time": 41.84914285714286,
       "text": "# 🎹 G7",
       "polylines": []
     },
     {
       "id": "HyyGhLquWsbeEIE0Gj9NS",
-      "time": 42.51428571428571,
+      "time": 42.53485714285714,
       "text": "# 🎹 Cm7",
       "polylines": []
     },
     {
       "id": "eX19L2oD3_O3hwzoOkidp",
-      "time": 43.885714285714286,
+      "time": 43.906285714285715,
       "text": "# 🎹 Cm7",
       "polylines": []
     },
     {
       "id": "3CEx4KN3faQs8BGAGMUAI",
-      "time": 44.57142857142857,
+      "time": 44.592,
       "text": "# 🎹 Bb",
       "polylines": []
     },
     {
       "id": "T8uwbmitBXnvi5uZwRe1Z",
-      "time": 45.25714285714286,
+      "time": 45.27771428571429,
       "text": ".# ℹ️ 副歌前降低换和弦频率",
       "polylines": []
     },
     {
       "id": "IMh6ggm2djF6iGJAGu1A_",
-      "time": 45.25714285714286,
+      "time": 45.27771428571429,
       "text": "# 🎹 AbM7",
       "polylines": []
     },
     {
       "id": "A09dZ0uzPIXaGTdVXlBy1",
-      "time": 48,
+      "time": 48.02057142857143,
       "text": "# 🎹 AbM7",
       "polylines": []
     },
     {
       "id": "Hws_dpXjVHAPu6fqCAqUF",
-      "time": 50.74285714285714,
+      "time": 50.76342857142857,
       "text": "# 🎹 Gm7",
       "polylines": []
     },
     {
       "id": "znThZW1JQBGCVYDHtqH2q",
-      "time": 53.48571428571429,
+      "time": 53.50628571428572,
       "text": "# 🎹 Cm7",
       "polylines": []
     },
     {
       "id": "Z4UshgxSJ7emUM_mdRwTW",
-      "time": 56.22857142857143,
+      "time": 56.24914285714286,
       "text": "# 🎹 Am7-5",
       "polylines": []
     },
     {
       "id": "lpPU3waPLilCnioUdJgr5",
-      "time": 58.971428571428575,
+      "time": 58.992000000000004,
       "text": "# 🎹 AbM7",
       "polylines": []
     },
     {
       "id": "f1V1JVMC5Du487s7MEgP8",
-      "time": 61.714285714285715,
+      "time": 61.734857142857145,
       "text": "# 🎹 Fm7",
       "polylines": []
     },
     {
       "id": "YKJMA4lWktoqADk5Lvyc2",
-      "time": 63.08571428571429,
+      "time": 63.10628571428572,
       "text": "# 🎹 Gm7",
       "polylines": []
     },
     {
       "id": "GyHImhpuOUWej4HpOGWlU",
-      "time": 64.45714285714286,
+      "time": 64.47771428571428,
       "text": "# 🎹 Ab",
       "polylines": []
     },
     {
       "id": "hO87L9gvuLpm2BjrcrGDw",
-      "time": 65.82857142857142,
+      "time": 65.84914285714287,
       "text": "# 🎹 Gsus4",
       "polylines": []
     },
     {
       "id": "7W6mtZgOR34FKq-w1DcsW",
-      "time": 67.2,
+      "time": 67.22057142857143,
       "text": ".# 🎼 副歌，Key: Gb",
       "polylines": []
     },
     {
       "id": "BF6lCOAqmPn0H32tPS9OF",
-      "time": 67.2,
+      "time": 67.22057142857143,
       "text": "# 🎹 CbM7",
       "polylines": []
     },
     {
       "id": "SKM2roo2COSMLCm_hgoPu",
-      "time": 68.57142857142857,
+      "time": 68.592,
       "text": "# 🎹 Db",
       "polylines": []
     },
     {
       "id": "THHkaJsfTCofT3WDMH142",
-      "time": 69.94285714285715,
+      "time": 69.96342857142858,
       "text": "# 🎹 Bbm7",
       "polylines": []
     },
     {
       "id": "zWcoJM08CALejstOPCzw0",
-      "time": 71.31428571428572,
+      "time": 71.33485714285715,
       "text": "# 🎹 Ebm7 ",
       "polylines": []
     },
     {
       "id": "PFET2t4NVj1XKeM35Dq5x",
-      "time": 72.68571428571428,
+      "time": 72.70628571428571,
       "text": "# 🎹 CbM7",
       "polylines": []
     },
     {
       "id": "bHbadkeQ_lBV2a7WHCIs6",
-      "time": 74.05714285714286,
+      "time": 74.0777142857143,
       "text": "# 🎹 Db",
       "polylines": []
     },
     {
       "id": "oaDeBfGfqZ6YD1GK99iI6",
-      "time": 75.42857142857143,
+      "time": 75.44914285714286,
       "text": "# 🎹 Ebsus4",
       "polylines": []
     },
     {
       "id": "dzyPLcKzNvVeSwqM0IRnU",
-      "time": 76.8,
+      "time": 76.82057142857143,
       "text": "# 🎹 Eb",
       "polylines": []
     },
     {
       "id": "U6MlDPzVubbXbRAlK_sU5",
-      "time": 78.17142857142858,
+      "time": 78.19200000000001,
       "text": "# 🎹 CbM7",
       "polylines": []
     },
     {
       "id": "NVEA5sspZse0-xkuIkh5b",
-      "time": 79.54285714285714,
+      "time": 79.56342857142857,
       "text": ".# 🥁 反拍鼓节奏\n\n第一遍是正常的动次打次，第二遍和旋律同步反拍。",
       "polylines": []
     },
     {
       "id": "DX9ZIiaAp7YxJmEKR1C2P",
-      "time": 79.54285714285714,
+      "time": 79.56342857142857,
       "text": "# 🎹 Db",
       "polylines": []
     },
     {
       "id": "B8DI0tvp9bd1x6to8PhYJ",
-      "time": 80.91428571428571,
+      "time": 80.93485714285714,
       "text": "# 🎹 Bbm7",
       "polylines": []
     },
     {
       "id": "-BRrHjZJ8T_lM-SNeAtU7",
-      "time": 82.28571428571429,
+      "time": 82.30628571428572,
       "text": "# 🎹 Ebm7",
       "polylines": []
     },
     {
       "id": "1v0DvmJbTyBzTHxK8QfUv",
-      "time": 83.65714285714286,
+      "time": 83.67771428571429,
       "text": "# 🎹 Abm7",
       "polylines": []
     },
     {
       "id": "9eiarq33rvYGSNGByFMi-",
-      "time": 85.02857142857142,
+      "time": 85.04914285714285,
       "text": "# 🎹 Bbm7",
       "polylines": []
     },
     {
       "id": "6i7gc_UXC707FtdWKth2h",
-      "time": 86.4,
+      "time": 86.42057142857144,
       "text": "# 🎹 CbM7",
       "polylines": []
     },
     {
       "id": "p4TUdbK9QfdfNzm5p7BVa",
-      "time": 87.77142857142857,
+      "time": 87.792,
       "text": "# 🎹 Db",
       "polylines": []
     },
     {
       "id": "J7g_Uxot62-cYpGDwPRrL",
-      "time": 89.14285714285714,
-      "text": "# 🎹 CbM7\n\n以下略",
+      "time": 89.16342857142857,
+      "text": "# 🎹 CbM7（以下略）\n\n点击节拍器下方的磁铁![](__BltauWkToSGhRjp2gUwcK)可以使笔记吸附刻度线，便于对齐节奏。\n\n\n",
       "polylines": []
     }
   ],
-  "imageDatabase": {}
+  "imageDatabase": {
+    "BltauWkToSGhRjp2gUwcK": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEEAAAA+CAIAAAD74eEGAAAE60lEQVRoBe2az28bRRTH+w/g3XFjp84PpbZc27J9amvHURR3ojYXIv8JjWM5B4RyIE0itGlzQFURh8hwAgk4oHIqcKEtCFQbTpwKpJEqIUVCpZF6KJvSpHYT147XqJ12GNm74zezayNBRlH0Mn5+8/3Me29mrfiIuwsDcYfjCx5xPGLvAx4y9H7PzVY8zIPZrvR+zuE8xLzDuUCqEM/cPJ1dH5vfSi/rWNOxtpVeXh+bv3k6W4hncoFUzDvsIKozDAGPbyk8WUrObeMV4E8pObcUngx4fPZh7DLE+ocL8YyONaD0Fjcda4V4JtZvKy22GFYjU9LqWRgda6uRKemESDJMDIaEKodVbGWXknMTgyEJEhmGXCDlyPa3w+hYywVSohjCDEvhyfa1nZ1ZCk8KYYgx9ACAbIcQhgBDLpBydr/50eBFBWWYGAx1qQesSHSsAVscxIAQcvwUspLOzpeScwihjr0BYliNTLGhe2lD7o3ODLH+4R5XEbtHOtY63uKdGQrxDBu093YhnuGXUweGgMcHTMLBHw+br0b1m9scVLgnCaJjjf9o2IFhMYQ5atiX4MrgnjT+YghzUsFjEDqO4MrgnpSBf0DxGGLeYRrlXzc4H5ssGRBCPb6Y+duUC6Ss7goeg9CJBK8QuCdLVYhnZBhunJpho/BtuDK4J7vijVMzMgzrY/NsFL4NVwb3ZFdcH5uXYdhKL7NR+DZcGdyTXXErvSzDALzdyEpwZXBPlkHH2v+V4b9QS0I9Xfv191ePS8363ftsGbD2k5WrjceVl571g73Pf2Rf5diSPS10tla//blpGEScUdmvvP+1qaDqrTv/uD2tlt/7ytStfVLybBW648qXrxlP9mgqGn/u7L79WYuUvas/GNUa9alvPnj0+jstPlZ/St5xs/5Rq4im889++o3ucbPZNCr71e9+2Xnjw228Ur58rbZxr3nQoABGtfb04+9N45hOzvpHZc6lqGfINJzV5O7Cp42HO1QlzzCM2u1Nqzim81HPkAwDQqiYyJtGtJosX/misb3LU/88QUZt497j7AdWQdrni4k8+Tel6acIy2c+t9uNEIJ/BqIL7771SX3zAVtULJLxrF69dQfeBiTsYghbJcHtdndg8PcdE7qtKUn53S/rd+8blf2XMAeNxl/lamlj582PqA/Q0LHm7zsmz4AQEjqdgLKE3MiJJMlAyinqHZJLhZBQK2cda1GvZTeT9uDVEmFQVfVS+JzVGt2evxQ+p6oqJwkd+oFQIoRUVRU9oBxhKybyHQGgDAihcV+wxxWlY23cF+QcqfSc7VBLbCpEr22bqZj1j0KSAMoDi3HhxBmbyoBvv3DiDBBAjIE0Rg8wKAC/lcVqiaaCYGSPJ7vUGzrWsseTJANAAIE8tGCM+4KOn1TFRH7cFxQFEGYgNwbJhqIoF0NnHUmIjrWLobOKokgAyDC0YET6Btai09IkOtbWotORvgFpAEmGlrpSFGXE7V0IpoWqq5jILwTTI26vHfVECeh+IK7tv+lXD1VVVRTF5XJFjg7MjCTWotPXT55v/+7P9ZPn16LTMyOJyNEBl8vFqod3cLsMWwwkHEtCYAiP68V47cUgNtFNpNPSt6OeCHCAgW4MhSFNr5oN1oe+0abhJAOVwgptt6mbU0ZXGJwSB4xzyADcqC67HeahyxsMDP83ZcFnhtp95HQAAAAASUVORK5CYII=",
+    "Jh4KUN_QO8414S-SQ0_1a": "data:image/png;base64,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",
+    "RWJXlgfHn3yzquDXFYBmE": "data:image/png;base64,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"
+  }
 }
