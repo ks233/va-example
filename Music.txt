@@ -11,420 +11,420 @@
   "markers": {
     "bpm": 175,
     "beat": 4,
-    "offset": 0.06
+    "offset": 0.34
   },
   "notes": [
     {
       "id": "NAkIF0o6wc3ljQ1yksDvu",
-      "time": 0.02057142857142857,
+      "time": 0.11657142857142858,
       "text": "# ℹ️ 这是一个示例笔记\n\n这个笔记大致演示了如何用本工具分析音乐。\n\n可以关闭视频播放器的显示，使笔记有更多显示空间。\n\n![](__RWJXlgfHn3yzquDXFYBmE)\n\n播放时试试打开节拍器、用快捷键 X/C 调整播放速度。\n\n《コネクト》和弦进行摘自 [ChordWiki](https://ja.chordwiki.org/wiki/%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88)",
       "polylines": []
     },
     {
       "id": "HXKF9Z4lKC8S9peA9Frnm",
-      "time": 1.392,
+      "time": 1.488,
       "text": ".# 🎼 副歌旋律，Key: F\n这是一个示例笔记，试试打开右下角的节拍器，播放音频吧！",
       "polylines": []
     },
     {
       "id": "wsbzQk1Ond8eEmLZN4kqN",
-      "time": 1.392,
+      "time": 1.488,
       "text": "# 🎹 BbM7\n\n可以像这样在笔记里添加补充说明。",
       "polylines": []
     },
     {
       "id": "YYxyuni0oCMc8awbPMPll",
-      "time": 2.763428571428572,
+      "time": 2.8594285714285714,
       "text": "# 🎹 C6\n五级",
       "polylines": []
     },
     {
       "id": "mjfH_NwNthOt8c2ajKo1l",
-      "time": 4.134857142857143,
+      "time": 4.230857142857142,
       "text": "# 🎹 Am7\n三级 ",
       "polylines": []
     },
     {
       "id": "QAfg_h5vtsgQy6YPzORSx",
-      "time": 5.506285714285714,
+      "time": 5.602285714285714,
       "text": "# 🎹 Dm7\n六级",
       "polylines": []
     },
     {
       "id": "CRkpSor1uUQTZU_jk2pvQ",
-      "time": 6.877714285714285,
+      "time": 6.973714285714285,
       "text": "# 🎹 Bbm7\n四级",
       "polylines": []
     },
     {
       "id": "bd67fIRs4RLdx8mAzP2If",
-      "time": 8.249142857142857,
+      "time": 8.345142857142857,
       "text": "# 🎹 C6\n五级",
       "polylines": []
     },
     {
       "id": "Y8wL5pe6exrYc92HKIyL9",
-      "time": 9.620571428571429,
+      "time": 9.716571428571429,
       "text": "# 🎹 Dsus4 -> D\n\n六级大和弦，**离调**",
       "polylines": []
     },
     {
       "id": "BsO-U3qC6X2hKgw4E2RYO",
-      "time": 12.363428571428573,
+      "time": 12.459428571428573,
       "text": ".# 🎼 前奏，Key: Gb",
       "polylines": []
     },
     {
       "id": "i0gXfxfpqs_9w1iKN_wcQ",
-      "time": 12.363428571428573,
+      "time": 12.459428571428573,
       "text": "# 🎹 CbM7",
       "polylines": []
     },
     {
       "id": "LezhTqreKpJx_-1TWes8-",
-      "time": 13.392000000000001,
+      "time": 13.488000000000001,
       "text": "# 🎹 Db",
       "polylines": []
     },
     {
       "id": "vxb9KIqMqIAeRxNoLBfbS",
-      "time": 14.42057142857143,
+      "time": 14.51657142857143,
       "text": "# 🎹 Cb",
       "polylines": []
     },
     {
       "id": "6o-l25Wxhez2KvmjKmzJM",
-      "time": 15.106285714285715,
+      "time": 15.202285714285715,
       "text": "# 🎹 Bbm7",
       "polylines": []
     },
     {
       "id": "NDXEmINW06dtIoCb-zAhS",
-      "time": 16.47771428571429,
+      "time": 16.57371428571429,
       "text": "# 🎹 Ebm7",
       "polylines": []
     },
     {
       "id": "8EQeQ6tQs-8Ln23DlqEy8",
-      "time": 17.84914285714286,
+      "time": 17.94514285714286,
       "text": "# 🎹 Cm7-5",
       "polylines": []
     },
     {
       "id": "igtaGBa6Qy7jISeJPxl3_",
-      "time": 18.877714285714287,
+      "time": 18.973714285714287,
       "text": "# 🎹 Cb",
       "polylines": []
     },
     {
       "id": "cPLmiEcN4STbBUJoOzLd0",
-      "time": 20.592000000000002,
+      "time": 20.688000000000002,
       "text": "# 🎹 Dbsus4",
       "polylines": []
     },
     {
       "id": "tDrE8rTYmZg03nNN8tkHt",
-      "time": 21.963428571428572,
+      "time": 22.059428571428572,
       "text": "# 🎹 Ebsus4",
       "polylines": []
     },
     {
       "id": "2SojTOzIsKdpQSBbGa1iS",
-      "time": 22.64914285714286,
+      "time": 22.74514285714286,
       "text": "# 🎹 Eb",
       "polylines": []
     },
     {
       "id": "pViYC5Gah014sa5yPW_bk",
-      "time": 23.334857142857143,
+      "time": 23.430857142857143,
       "text": ".# 🎼 主歌，Key: Eb",
       "polylines": []
     },
     {
       "id": "1mjf7nySiYOxod2mxuIk5",
-      "time": 23.334857142857143,
+      "time": 23.430857142857143,
       "text": "# 🎹 AbM7 💬\n\nℹ️ 挨个创建和弦很麻烦？**中键**点击创建笔记按钮可以快速批量创建和弦笔记。\n\n![](__Jh4KUN_QO8414S-SQ0_1a)\n\n和弦之间用英文逗号隔开，每个和弦间隔半小节，逗号之间没有内容则视为跳过半小节。",
       "polylines": []
     },
     {
       "id": "X57JqEV-wnpDktpAuWS8Q",
-      "time": 26.077714285714286,
+      "time": 26.173714285714286,
       "text": "# 🎹 Bb",
       "polylines": []
     },
     {
       "id": "cID5Bn38RLbYxO76o1jOS",
-      "time": 27.44914285714286,
+      "time": 27.54514285714286,
       "text": "# 🎹 Bbsus4",
       "polylines": []
     },
     {
       "id": "etJMfaqet4mAVwNDChmdI",
-      "time": 28.134857142857143,
+      "time": 28.230857142857143,
       "text": "# 🎹 Bb",
       "polylines": []
     },
     {
       "id": "i2EOvbT30lY-4lMzX7hRv",
-      "time": 28.82057142857143,
+      "time": 28.91657142857143,
       "text": "# 🎹 Gm7",
       "polylines": []
     },
     {
       "id": "w6rTdv0zg6QButGWaCDmB",
-      "time": 31.563428571428574,
+      "time": 31.659428571428574,
       "text": "# 🎹 Cm7",
       "polylines": []
     },
     {
       "id": "MPo6mXQNpCGv5GgWV5-bo",
-      "time": 32.93485714285715,
+      "time": 33.030857142857144,
       "text": "# 🎹 Cm7",
       "polylines": []
     },
     {
       "id": "pU3yoMSsSvvPLt3ymU9P6",
-      "time": 33.62057142857143,
+      "time": 33.71657142857143,
       "text": "# 🎹 Bb",
       "polylines": []
     },
     {
       "id": "aq8UvfgFQeoKujwF9IJg6",
-      "time": 34.306285714285714,
+      "time": 34.40228571428572,
       "text": "# 🎹 AbM7",
       "polylines": []
     },
     {
       "id": "2wwArtHcoARNh7eh-lwxt",
-      "time": 37.04914285714286,
+      "time": 37.14514285714286,
       "text": "# 🎹 Bb",
       "polylines": []
     },
     {
       "id": "UxXlQwP9Pl9oCCmRJH6mK",
-      "time": 38.42057142857143,
+      "time": 38.51657142857143,
       "text": "# 🎹 Bbsus4",
       "polylines": []
     },
     {
       "id": "kzjlm7TwgZOhZFMnZ2No8",
-      "time": 39.10628571428572,
+      "time": 39.202285714285715,
       "text": "# 🎹 Bb",
       "polylines": []
     },
     {
       "id": "sRUlbCPgwHCtUJyY9b8GS",
-      "time": 39.792,
+      "time": 39.888,
       "text": "# 🎹 Gm7",
       "polylines": []
     },
     {
       "id": "zFvnyq40UkFzHoWk4RWWp",
-      "time": 41.163428571428575,
+      "time": 41.25942857142857,
       "text": "# 🎹 G7/Cb",
       "polylines": []
     },
     {
       "id": "JjLcLyrGoTf4RbbmUakAb",
-      "time": 41.84914285714286,
+      "time": 41.94514285714286,
       "text": "# 🎹 G7",
       "polylines": []
     },
     {
       "id": "HyyGhLquWsbeEIE0Gj9NS",
-      "time": 42.53485714285714,
+      "time": 42.630857142857145,
       "text": "# 🎹 Cm7",
       "polylines": []
     },
     {
       "id": "eX19L2oD3_O3hwzoOkidp",
-      "time": 43.906285714285715,
+      "time": 44.00228571428572,
       "text": "# 🎹 Cm7",
       "polylines": []
     },
     {
       "id": "3CEx4KN3faQs8BGAGMUAI",
-      "time": 44.592,
+      "time": 44.688,
       "text": "# 🎹 Bb",
       "polylines": []
     },
     {
       "id": "T8uwbmitBXnvi5uZwRe1Z",
-      "time": 45.27771428571429,
+      "time": 45.373714285714286,
       "text": ".# ℹ️ 副歌前降低换和弦频率",
       "polylines": []
     },
     {
       "id": "IMh6ggm2djF6iGJAGu1A_",
-      "time": 45.27771428571429,
+      "time": 45.373714285714286,
       "text": "# 🎹 AbM7",
       "polylines": []
     },
     {
       "id": "A09dZ0uzPIXaGTdVXlBy1",
-      "time": 48.02057142857143,
+      "time": 48.11657142857143,
       "text": "# 🎹 AbM7",
       "polylines": []
     },
     {
       "id": "Hws_dpXjVHAPu6fqCAqUF",
-      "time": 50.76342857142857,
+      "time": 50.85942857142857,
       "text": "# 🎹 Gm7",
       "polylines": []
     },
     {
       "id": "znThZW1JQBGCVYDHtqH2q",
-      "time": 53.50628571428572,
+      "time": 53.60228571428571,
       "text": "# 🎹 Cm7",
       "polylines": []
     },
     {
       "id": "Z4UshgxSJ7emUM_mdRwTW",
-      "time": 56.24914285714286,
+      "time": 56.34514285714286,
       "text": "# 🎹 Am7-5",
       "polylines": []
     },
     {
       "id": "lpPU3waPLilCnioUdJgr5",
-      "time": 58.992000000000004,
+      "time": 59.088,
       "text": "# 🎹 AbM7",
       "polylines": []
     },
     {
       "id": "f1V1JVMC5Du487s7MEgP8",
-      "time": 61.734857142857145,
+      "time": 61.83085714285714,
       "text": "# 🎹 Fm7",
       "polylines": []
     },
     {
       "id": "YKJMA4lWktoqADk5Lvyc2",
-      "time": 63.10628571428572,
+      "time": 63.202285714285715,
       "text": "# 🎹 Gm7",
       "polylines": []
     },
     {
       "id": "GyHImhpuOUWej4HpOGWlU",
-      "time": 64.47771428571428,
+      "time": 64.57371428571429,
       "text": "# 🎹 Ab",
       "polylines": []
     },
     {
       "id": "hO87L9gvuLpm2BjrcrGDw",
-      "time": 65.84914285714287,
+      "time": 65.94514285714286,
       "text": "# 🎹 Gsus4",
       "polylines": []
     },
     {
       "id": "7W6mtZgOR34FKq-w1DcsW",
-      "time": 67.22057142857143,
+      "time": 67.31657142857144,
       "text": ".# 🎼 副歌，Key: Gb",
       "polylines": []
     },
     {
       "id": "BF6lCOAqmPn0H32tPS9OF",
-      "time": 67.22057142857143,
+      "time": 67.31657142857144,
       "text": "# 🎹 CbM7",
       "polylines": []
     },
     {
       "id": "SKM2roo2COSMLCm_hgoPu",
-      "time": 68.592,
+      "time": 68.688,
       "text": "# 🎹 Db",
       "polylines": []
     },
     {
       "id": "THHkaJsfTCofT3WDMH142",
-      "time": 69.96342857142858,
+      "time": 70.05942857142857,
       "text": "# 🎹 Bbm7",
       "polylines": []
     },
     {
       "id": "zWcoJM08CALejstOPCzw0",
-      "time": 71.33485714285715,
+      "time": 71.43085714285715,
       "text": "# 🎹 Ebm7 ",
       "polylines": []
     },
     {
       "id": "PFET2t4NVj1XKeM35Dq5x",
-      "time": 72.70628571428571,
+      "time": 72.80228571428572,
       "text": "# 🎹 CbM7",
       "polylines": []
     },
     {
       "id": "bHbadkeQ_lBV2a7WHCIs6",
-      "time": 74.0777142857143,
+      "time": 74.17371428571428,
       "text": "# 🎹 Db",
       "polylines": []
     },
     {
       "id": "oaDeBfGfqZ6YD1GK99iI6",
-      "time": 75.44914285714286,
+      "time": 75.54514285714286,
       "text": "# 🎹 Ebsus4",
       "polylines": []
     },
     {
       "id": "dzyPLcKzNvVeSwqM0IRnU",
-      "time": 76.82057142857143,
+      "time": 76.91657142857143,
       "text": "# 🎹 Eb",
       "polylines": []
     },
     {
       "id": "U6MlDPzVubbXbRAlK_sU5",
-      "time": 78.19200000000001,
+      "time": 78.288,
       "text": "# 🎹 CbM7",
       "polylines": []
     },
     {
       "id": "NVEA5sspZse0-xkuIkh5b",
-      "time": 79.56342857142857,
+      "time": 79.65942857142858,
       "text": ".# 🥁 反拍鼓节奏\n\n第一遍是正常的动次打次，第二遍和旋律同步反拍。",
       "polylines": []
     },
     {
       "id": "DX9ZIiaAp7YxJmEKR1C2P",
-      "time": 79.56342857142857,
+      "time": 79.65942857142858,
       "text": "# 🎹 Db",
       "polylines": []
     },
     {
       "id": "B8DI0tvp9bd1x6to8PhYJ",
-      "time": 80.93485714285714,
+      "time": 81.03085714285714,
       "text": "# 🎹 Bbm7",
       "polylines": []
     },
     {
       "id": "-BRrHjZJ8T_lM-SNeAtU7",
-      "time": 82.30628571428572,
+      "time": 82.40228571428571,
       "text": "# 🎹 Ebm7",
       "polylines": []
     },
     {
       "id": "1v0DvmJbTyBzTHxK8QfUv",
-      "time": 83.67771428571429,
+      "time": 83.77371428571429,
       "text": "# 🎹 Abm7",
       "polylines": []
     },
     {
       "id": "9eiarq33rvYGSNGByFMi-",
-      "time": 85.04914285714285,
+      "time": 85.14514285714286,
       "text": "# 🎹 Bbm7",
       "polylines": []
     },
     {
       "id": "6i7gc_UXC707FtdWKth2h",
-      "time": 86.42057142857144,
+      "time": 86.51657142857142,
       "text": "# 🎹 CbM7",
       "polylines": []
     },
     {
       "id": "p4TUdbK9QfdfNzm5p7BVa",
-      "time": 87.792,
+      "time": 87.88799999999999,
       "text": "# 🎹 Db",
       "polylines": []
     },
     {
       "id": "J7g_Uxot62-cYpGDwPRrL",
-      "time": 89.16342857142857,
+      "time": 89.25942857142856,
       "text": "# 🎹 CbM7（以下略）\n\n点击节拍器下方的磁铁![](__BltauWkToSGhRjp2gUwcK)可以使笔记吸附刻度线，便于对齐节奏。\n\n\n",
       "polylines": []
     }
